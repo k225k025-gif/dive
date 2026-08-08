@@ -1,6 +1,0 @@
-[preload  storage="./data/bgimage/backgraund.png"  ]
-[preload  storage="./data/fgimage/default/apple2.png"  ]
-[preload  storage="./data/bgimage/未発見.png"  ]
-[preload  storage="./data/fgimage/chara/1/nyuutonwalk2.png"  ]
-[preload  storage="./data/bgimage/success.png"  ]
-[return]
